@@ -25,7 +25,7 @@ Change DB_DATABASE if needed
    ```
 
 1. ```
-      npm run dev
+    npm run dev
    ```
 
 for development
